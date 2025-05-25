@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": "fb17",
+      "name": "sabir",
+      "email": "sabir@gmail.com",
+      "password": "sabir123@"
+    },
+    {
+      "id": "3960",
+      "name": "sabir",
+      "email": "shah@gmail.com",
+      "password": "shah123@"
+    },
+    {
+      "id": "678a",
+      "name": "Minim reprehenderit ",
+      "email": "federexi@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "dd77",
+      "name": "Eiusmod delectus co",
+      "email": "dilece@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "a913",
+      "name": "Delectus ducimus s",
+      "email": "mecydode@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "880c",
+      "name": "A elit nostrum numq",
+      "email": "gezy@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "c578",
+      "name": "Hic earum quod moles",
+      "email": "pefulyvi@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "a2ac",
+      "name": "Impedit alias at re",
+      "email": "napukix@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "ae70",
+      "name": "Inventore repellendu",
+      "email": "wykiseweni@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "89d6",
+      "name": "Commodo sit eum inci",
+      "email": "bafo@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "8752",
+      "name": "sabir",
+      "email": "sabir@gmail.com",
+      "password": "1234@"
+    },
+    {
+      "id": "f021",
+      "name": "sabir",
+      "email": "test@test.com",
+      "password": "test123@"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "747c",
+      "name": "Est exercitationem ",
+      "address": "Eos aut ullamco non ",
+      "contact": "Consectetur hic offi"
+    },
+    {
+      "id": "b682",
+      "Name": "Suscipit amet nisi ",
+      "address": "Exercitation alias i",
+      "contact": "Sunt ut delectus ma"
+    },
+    {
+      "id": "a40e",
+      "name": "Exercitationem ex id",
+      "address": "Unde omnis corporis ",
+      "contact": "Nulla quam cillum fa"
+    }
+  ]
+}
